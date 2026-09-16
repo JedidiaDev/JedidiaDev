@@ -80,15 +80,15 @@ A fintech concept exploring digital identity, financial inclusion and digital pa
 
 Developed in the context of the **Africa Digital ID Hackathon**.
 
+---
+
+## 🧪 Current Projects
+
 ### 🎓 TutorHub
 
 An EdTech platform connecting students with tutors: tutor discovery, profiles, reservations, skills, real-time notifications and session management.
 
 **Stack:** `Spring Boot` · `Next.js` · `TypeScript` · `PostgreSQL` · `WebSockets`
-
----
-
-## 🧪 Current Projects
 
 ### 🚕 VORA
 
