@@ -293,6 +293,12 @@ If you're building something interesting, feel free to reach out.
   <a href="mailto:jedidiakamdemsouop@gmail.com">✉️ Email</a>
 </p>
 
+## Insert a Coin 
+
+<p align="center">
+  <a href="https://anonym.is-a.dev/soutien">🌐 Insert a coin</a> ·
+</p>
+
 <p align="center"><strong>Build. Secure. Ship. Repeat.</strong></p>
 
 <p align="center">🇨🇲 Built from Cameroon, with a global ambition.</p>
